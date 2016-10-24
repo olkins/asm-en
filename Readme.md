@@ -1,4 +1,3 @@
-# Markdown text goes in here
 
 #**1. Theory** 
 
