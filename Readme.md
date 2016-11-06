@@ -37,7 +37,7 @@ translating program into machine code. Many directives are started from period. 
 they are written in upper case to be easily distinguished. Beside directives there
 are also *instructions* - processor commands. Instructions are translated into machine
 code.
-[##1.2 Creating assembler program] [id] reference-style link.
+
 ##1.2 Creating assembler program
 Assembler allows to gain lowest level access to the computer architecture, but as in other
 modern OS, so in **GNU/Linux** kernel functions are used to perform most of actions in a
@@ -195,7 +195,7 @@ This study guide is authored and maintained by Dmitryi Kostuk and Halina Chetver
 
 [View on Github >](https://github.com/fiowro/asm)
 
-[View on bstu >](http://en.bstu.by/index.php/en/university/faculties/electronic-information-systems/computer-and-computer-systems)
+[BSTU >](http://en.bstu.by/index.php/en/university/faculties/electronic-information-systems/computer-and-computer-systems)
 
 
 ![](http://en.bstu.by/images/logo.png)
